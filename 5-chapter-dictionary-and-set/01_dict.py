@@ -6,4 +6,6 @@ marks = {
     "Ayesha": 95,
 }
 
+empty = {}  # Empty dictionary
+
 print(marks["Hamza"])  # Output: 90
